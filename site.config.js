@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Victor Tayo",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "curator",
-    bio: "serial procrastinator, professional nap enthusiast, part-time dreamer and more...",
+    bio: "serial procrastinator, professional nap enthusiast, part-time dreamer & more...",
     email: "victortayo.io@gmail.com",
     linkedin: "Victor Tayo",
     github: "victortayo",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `victortayo notes`,
+      name: `victortayosnotes`,
       href: "https://juicy-turner-7d2.notion.site/9bfe899b3fe647289b6dc908346ae406?v=0adc902980fb4e57a4d097e03557371f&pvs=4",
     },
   ],
